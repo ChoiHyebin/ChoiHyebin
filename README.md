@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,6,5,30&height=150&section=header&text=ChoiHyebin&fontSize=40" />
 <h3>📌 Introduction</h3>
 </h2>
-  Hello, My name is Hyebin Choi.
-  I majored in Computer Science Engineering in university.
+  Hello, My name is Hyebin Choi. <br>
+  I majored in Computer Science Engineering in university.<br>
   My dream is to become a front-end developer who can always keep up with the latest design trends and maximize user experience.
 <h3>📌 Most Used Languages</h3>
 
