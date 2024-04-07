@@ -4,13 +4,6 @@
   Hello, My name is Hyebin Choi. <br>
   I majored in Computer Science Engineering in university.<br>
   My dream is to become a front-end developer who can always keep up with the latest design trends and maximize user experience.
-<h3>📌 Most Used Languages</h3>
-
-<table>
-  <tr>
-    <td><a href="https://github.com/$ChoiHyebin"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiHyebin&layout=compact&show_icons=true&show_owner=ChoiHyebin&theme=nord" /></a></td>
-  </tr>   
-</table>
 
 ### 📌 My Stack
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
